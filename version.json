@@ -1,6 +1,5 @@
 {
   "latest_version": "5.0",
-  "download_url": "https://your-download-link.com/setup.exe",
-  "supported_versions": ["5.0"],
-  "old_versions": ["3.8", "3.9","4.0"]
+  "download_url": "https://google.com",
+  "supported_versions": ["5.0"]
 }
